@@ -1,4 +1,4 @@
-# AtliQ Hardware Sales Insights Analysis
+# Sales Insights Analysis
 
 ## 📊 Project Overview
 This project provides a comprehensive business intelligence solution for AtliQ Hardware, a company supplying electronics to various retailers across India. The goal was to provide the Sales Director with a "single version of the truth" regarding declining revenue and regional performance.
