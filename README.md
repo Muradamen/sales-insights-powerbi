@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 This project provides a comprehensive business intelligence solution for AtliQ Hardware, a company supplying electronics to various retailers across India. The goal was to provide the Sales Director with a "single version of the truth" regarding declining revenue and regional performance.
 <p align="center">
-  <img src="dashboard_preview.png" width="800" title="AtliQ Sales Dashboard">
+  <img src="dashboard_preview.png" width="800" title="Sales Dashboard">
 </p>
 ## 🛠️ Tech Stack
 * **Database:** MySQL (Data Storage & Discovery)
