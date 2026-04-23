@@ -42,4 +42,4 @@ The final dashboard answers critical business questions:
 ## 👤 Author
 **Murad Amin**
 *Software Engineer & Data Analyst*
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/Muradamen) | [LinkedIn](www.linkedin.com/in/muradamin)
